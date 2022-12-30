@@ -1,10 +1,12 @@
 let firstName = '';
+
 let firstNameExplicit: string = ''
 
 let arrayString = ['julian', 'zapata'];
 let arrayStringExplicit: string[] = ['julian', 'zapata'];
 
 function sum(x: number, y: number): number {
+    let firstName = '';
     return x + y;
 }
 
@@ -14,7 +16,7 @@ function sumDestructuring({x, y}: { x: number, y: number }): number {
 
 // Parameter of "any" type and a function that returns void
 function logVar(varToLog: any): void {
-    console.log(varToLog)
+    console.log(varToLog);
 }
 
 // Optional parameter

@@ -55,10 +55,10 @@ function sendEmail(emailable: Emailable, to: string) {
     console.log('To:', to)
 }
 
-const tShirt = new Product('TShirt Design B', 18)
-tShirt.size = Sizes.medium
-tShirt.color = 'green'
-tShirt.buy()
+const tShirtUnique1 = new Product('TShirt Design B', 18)
+tShirtUnique1.size = Sizes.medium
+tShirtUnique1.color = 'green'
+tShirtUnique1.buy()
 
 const photoShoot = new Service(
     'Kelly Wedding Photo Shoot',

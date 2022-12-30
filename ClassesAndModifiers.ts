@@ -56,14 +56,14 @@ tshirt.size = Sizes.medium
 tshirt.color = 'green'
 tshirt.buy()
 
-const photoShoot = new Service(
+const photoShootUnique1 = new Service(
     'Kelly Wedding Photo Shoot',
     450,
     new Date('May 9, 2009 11:00:00'),
     new Date('May 9, 2009 12:30:00')
 )
 
-// photoShoot.price = 234 // ERROR: This property is readonly
-photoShoot.buy()
+// photoShootUnique1.price = 234 // ERROR: This property is readonly
+photoShootUnique1.buy()
 
-sendEmail(photoShoot, 'daniel@vueschool.io')
+sendEmail(photoShootUnique1, 'daniel@vueschool.io')

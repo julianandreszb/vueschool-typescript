@@ -1,6 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15e2177d-2c08-4c96-a96e-37d855ff6879" name="Changes" comment="using tsc build command">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ClassesAndModifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/Generics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/TypeAssertions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassesAndModifiers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClassesAndModifiers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic.ts" beforeDir="false" afterPath="$PROJECT_DIR$/basic.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/classes.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JcNgihZcqXXqwfqTIXX8SGWWiQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "ts.external.directory.path": "/Users/jzapata/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/223.8214.52/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15e2177d-2c08-4c96-a96e-37d855ff6879" name="Changes" comment="" />
+      <created>1672373524423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672373524423</updated>
+      <workItem from="1672373525454" duration="2009000" />
+    </task>
+    <task id="LOCAL-00001" summary="using tsc build command">
+      <created>1672373644927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672373644927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/basic.js" />
+        <option value="$PROJECT_DIR$/ClassesAndModifiers.js" />
+        <option value="$PROJECT_DIR$/classes.js" />
+        <option value="$PROJECT_DIR$/Generics.js" />
+        <option value="$PROJECT_DIR$/TypeAssertions.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="using tsc build command" />
+    <option name="LAST_COMMIT_MESSAGE" value="using tsc build command" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
