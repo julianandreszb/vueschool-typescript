@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/vueschool-typescript.iml" filepath="$PROJECT_DIR$/vueschool-typescript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vueschool-typescript.iml" filepath="$PROJECT_DIR$/.idea/vueschool-typescript.iml" />
     </modules>
   </component>
 </project>
